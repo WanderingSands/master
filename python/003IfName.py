@@ -1,3 +1,4 @@
+#!/usr/bin/python3.6
 print("What is your name?")
 name=input()
 if name=="Jonathan":

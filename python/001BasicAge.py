@@ -1,3 +1,4 @@
+#!/usr/bin/python3.6
 print('Hello World')
 print('What is your name?')
 myName = input()

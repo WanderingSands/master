@@ -1,5 +1,4 @@
-﻿#!/usr/bin/env python36
-
+#!/usr/bin/python3.6
 
 #Begin temp global dictionary, string, and test field
 Eqto='is equal to {}.'

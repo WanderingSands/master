@@ -1,4 +1,4 @@
-#!/usr/bin/env python36
+#!/usr/bin/python3.6
 
 print("Welcome to the calculator that will compare student grades to other students ")
 print("in a basic manner. You will be asked for the names of three (3) students,")
