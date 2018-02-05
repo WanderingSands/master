@@ -177,3 +177,7 @@ print()
 print("T2 is {}, T1 is {}, F2 is {}, T3 is {}, and F1 is {}.".format(T2, T1, F2, T3, F1))
 print()
 exit=input("Press enter to end the program.")
+exit(0)
+r
+x
+sys.exit()
