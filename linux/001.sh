@@ -1,3 +1,4 @@
+#!/bin/bash
 #A simple script for my personal modification to the CLI's prompt.
 
 
